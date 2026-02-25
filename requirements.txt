@@ -1,0 +1,7 @@
+flask
+flask-cors
+qrcode
+pillow
+cloudinary
+python-dotenv
+gunicorn
